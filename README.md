@@ -16,7 +16,7 @@
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [HTML, CSS, JavaScript, Ruby, Python, Java, Rust ],
+  code: [HTML, CSS, JavaScript, Ruby, Python, C++, Java, Rust ],
       askMeAbout: ["web dev", "tech", "app dev", "Travelling"],
     technologies: {
         backEnd: {
