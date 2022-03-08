@@ -7,7 +7,7 @@
 
 
 [![Twitter:](https://img.shields.io/twitter/follow/Shravi)](https://twitter.com/ShraddhaInamda3)
-[![Linkedin: Shraddha Inamdar](https://img.shields.io/badge/-Shravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/shraddha-inamdar-4b6498166/)
+[![Linkedin: Shraddha Inamdar](https://img.shield.io/badge/-Shravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/shraddha-inamdar-4b6498166/)
 [![GitHub Shravi](https://img.shields.io/github/followers/Shravi?label=follow&style=social)](https://github.com/shravi24)
 
 
