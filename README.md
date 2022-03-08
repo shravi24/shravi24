@@ -7,7 +7,6 @@
 
 
 [![Twitter:](https://img.shields.io/twitter/follow/Shravi)](https://twitter.com/ShraddhaInamda3)
-(https://www.linkedin.com/in/shraddha-inamdar-4b6498166/)
 [![GitHub Shravi](https://img.shields.io/github/followers/Shravi?label=follow&style=social)](https://github.com/shravi24)
 
 
