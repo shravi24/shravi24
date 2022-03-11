@@ -6,7 +6,7 @@
 
 
 
-[![Twitter:](https://img.shields.io/twitter/follow/Shravi)](https://twitter.com/ShraddhaInamda3)
+[![Twitter:](https://twitter.com/ShraddhaInamda3)
 [![GitHub Shravi](https://img.shields.io/github/followers/Shravi?label=follow&style=social)](https://github.com/shravi24)
 
 
