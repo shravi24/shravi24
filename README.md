@@ -5,6 +5,7 @@
 </em></p>
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shravi24.shravi24)
 [![Linkedin: Shraddha Inamdar](https://img.shields.io/badge/-Shravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/shraddha-inamdar-4b6498166/)
 [![GitHub Shravi](https://img.shields.io/github/followers/Shravi?label=follow&style=social)](https://github.com/shravi24)
 
